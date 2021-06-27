@@ -1,14 +1,5 @@
-# DoubleClick
+This is a very simple program that can be used in your batch projects as a function to diplay a very enhanced
+GUI Buttons.
 
-A simple doubleclicker for mice that don't have double-clicking capabilities but still want to achieve high cps.
-
-## Prerequisites
-
-Download [AutoHotkey](https://www.autohotkey.com/) before unzipping the zip file.
-
-## How To Use
-
-Simply download the zip file and unzip it with your preferred file archiver. The EXE you should be running is `DoubleClick.exe`
-
-## Contributing
-This is one of my first Github projects; it probably sucks! If you have any ideas pull requests are welcome.
+ * Follow the example for usage.
+ * There is comments in the "Button.bat" file to help understand how the program works. 
